@@ -2,7 +2,7 @@
 
 Create html file, then open in browser. At least some browsers will reload file when it's updated.
 
-##Command line options
+## Command line options
 
 |Option|Argument|Description|
 |---|---|---|
@@ -11,7 +11,7 @@ Create html file, then open in browser. At least some browsers will reload file 
 |--min,m |integer |Minimum value to start with (default 1)
 |--help,-h||        Show usage help|
 
-##Dependencies
+## Dependencies
 
 - Python v3.x ( https://www.python.org )
 - python-markdown ( https://python-markdown.github.io )
