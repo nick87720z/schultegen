@@ -16,6 +16,6 @@ Create html file, then open in browser. At least some browsers will reload file 
 - Python v3.x ( https://www.python.org )
 - python-markdown ( https://python-markdown.github.io )
 
-## Bugs & proposals
+## Links
 
-https://github.com/nick87720z/schultegen/issues
+Bugs and proposals: https://github.com/nick87720z/schultegen/issues
