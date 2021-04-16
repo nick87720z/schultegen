@@ -1,5 +1,7 @@
 # Schulte table generator
 
+![Light Screenshot](screenshot-light.png)![Dark Screenshot](screenshot-dark.png)
+
 Create html file, then open in browser. At least some browsers will reload file when it's updated.
 
 ## Command line options
