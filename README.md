@@ -20,4 +20,4 @@ Create html file, then open in browser. At least some browsers will reload file 
 
 ## Links
 
-Bugs and proposals: https://github.com/nick87720z/schultegen/issues
+Bugs and proposals: https://www.opencode.net/nick87720z/schultegen/issues
